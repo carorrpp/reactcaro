@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactcaro/static/css/main.44e8c49a.css",
+    "main.js": "/reactcaro/static/js/main.1a8c23f6.js",
+    "static/js/787.03984717.chunk.js": "/reactcaro/static/js/787.03984717.chunk.js",
+    "static/media/fondo.jpg": "/reactcaro/static/media/fondo.cd9cbc6b239e77d44540.jpg",
+    "index.html": "/reactcaro/index.html",
+    "main.44e8c49a.css.map": "/reactcaro/static/css/main.44e8c49a.css.map",
+    "main.1a8c23f6.js.map": "/reactcaro/static/js/main.1a8c23f6.js.map",
+    "787.03984717.chunk.js.map": "/reactcaro/static/js/787.03984717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e8c49a.css",
+    "static/js/main.1a8c23f6.js"
+  ]
+}
